@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faezeh-Rezaei
 - 👀 I’m interested in programming languages, coding, simulation & visualization.
-- 🌱 I’m currently learning Python,C# and Unity 3D.
+- 🌱 I’m currently learning Typescript, Python,C# and Unity 3D.
 - 📫 How to reach me; faezehrezaeii1995@gmail.com
 
 <!---
